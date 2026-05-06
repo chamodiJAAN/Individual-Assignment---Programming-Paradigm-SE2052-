@@ -7,4 +7,4 @@ pipelines, cron jobs, smart assistants). General-purpose languages ​​can exp
     • Time-based scheduling
     • Dependencies between tasks
     • Conditional execution
-Here this will demonstrate how to formally define the syntax using BNF or EBNF and simplify our DSL task specification. Then we will implement a lexer using Lex or Flex and a parser using Yacc or Bison.
+Here we will demonstrate how to formally define the syntax using BNF or EBNF and simplify our DSL task specification. Then we will implement a lexer using Lex or Flex and a parser using Yacc or Bison.
