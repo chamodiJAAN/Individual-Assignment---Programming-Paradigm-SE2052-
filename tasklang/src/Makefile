@@ -32,7 +32,7 @@ test: $(TARGET)
 	./$(TARGET) ../Tests/test5_syntax_error.tl
 	@echo ""; echo "===== TEST 6: Weekly Schedule + Retry/Timeout (valid) ====="
 	./$(TARGET) ../Tests/test6_weekly_retry.tl
-  @echo ""; echo "===== TEST 7: Lexical Error (unrecognised characters) ====="
+    @echo ""; echo "===== TEST 7: Lexical Error (unrecognised characters) ====="
 	./$(TARGET) ../Tests/test7_lexical_error.tl
 	@echo ""; echo "===== TEST 8: BEFORE Dependency (valid) ====="
 	./$(TARGET) ../Tests/test8_before_dependency.tl
