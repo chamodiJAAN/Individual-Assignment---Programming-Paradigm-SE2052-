@@ -1,7 +1,6 @@
 %{
 /*
- * lexer.l - Lexical Analyzer for TaskLang++
- * IT24104006 - Jananjana J.W.C
+   lexer.l - Lexical Analyzer for TaskLang++
  */
 
 #include <stdio.h>
